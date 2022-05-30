@@ -1,1 +1,1 @@
-This project is about shell basics
+this script is for bash
