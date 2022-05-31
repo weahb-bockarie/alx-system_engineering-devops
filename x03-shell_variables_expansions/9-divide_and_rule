@@ -1,2 +1,2 @@
 #!/bin/bash
-echo $((POWERR | DIVIDE))
+echo $((POWER | DIVIDE))
